@@ -18,7 +18,7 @@ int times(int a, int b) {
     return a * b;
 }
 
-
+// this function returns the quotient of inputs
 double divide(double a, double b) {
     return a / b;
 }
@@ -29,6 +29,6 @@ int main() {
 
     std::cout << sum(a, b) << std::endl; // prints sum to console
     std::cout << times(a, b) << std::endl; // prints product to console
-    std::cout << divide(a, b) << std::endl;
+    std::cout << divide(a, b) << std::endl; // prints quotient to console
     return 0;
 }
