@@ -8,6 +8,7 @@ Instructions:
 
 int a, b;
 
+
 int sum(int a, int b) {
     return a + b;
 }
@@ -16,7 +17,7 @@ int main() {
     a = 3;
     b = 4;
 
-    sum(a, b);
+    std::cout << sum(a, b);
 
     return 0;
 }
