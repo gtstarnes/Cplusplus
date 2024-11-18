@@ -13,6 +13,10 @@ int sum(int a, int b) {
     return a + b;
 }
 
+int difference(int a, int b) {
+    return a - b;
+}
+
 // this function returns the product of inputs
 int times(int a, int b) {
     return a * b;
@@ -28,6 +32,7 @@ int main() {
     b = 4;
 
     std::cout << sum(a, b) << std::endl; // prints sum to console
+    std::cout << difference(a, b) << std::endl;
     std::cout << times(a, b) << std::endl; // prints product to console
     std::cout << divide(a, b) << std::endl; // prints quotient to console
     return 0;
