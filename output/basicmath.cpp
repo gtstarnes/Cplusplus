@@ -6,6 +6,17 @@ Instructions:
 
 #include <iostream>
 
+int a, b;
+
+int sum(int a, int b) {
+    return a + b;
+}
+
 int main() {
-return 0
+    a = 3;
+    b = 4;
+
+    sum(a, b);
+
+    return 0;
 }
