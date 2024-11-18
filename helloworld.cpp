@@ -9,6 +9,6 @@ explaining what is happening
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, world";
+    std::cout << "Hello, world"; // This will print "Hello, world" to the console
     return 0;
 }
