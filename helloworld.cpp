@@ -10,5 +10,6 @@ explaining what is happening
 
 
 int main() {
-    return 0
+    std::cout << "Hello, World";
+    return 0;
 }
