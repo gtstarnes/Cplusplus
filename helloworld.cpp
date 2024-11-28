@@ -10,6 +10,7 @@ explaining what is happening
 
 
 int main() {
-    std::cout << "Hello, World";
+    std::string hello = "Hello, World!";
+    std::cout << hello;
     return 0;
 }
