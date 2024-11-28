@@ -9,10 +9,10 @@ explaining what is happening
 #include<iostream>
 
 void hello() {
-    std::cout << "Hello, world"; 
+    std::cout << "Hello, world"; // this function prints hello world to console
 }
 
 int main() {
-    hello(); 
+    hello(); // this calls hello() function
     return 0;
 }
