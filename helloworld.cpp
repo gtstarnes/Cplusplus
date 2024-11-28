@@ -6,3 +6,13 @@ Instructions
 explaining what is happening
 */
 
+#include<iostream>
+
+void hello() {
+    std::cout << "Hello, world"; 
+}
+
+int main() {
+    hello(); 
+    return 0;
+}
