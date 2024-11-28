@@ -6,11 +6,3 @@ Instructions
 explaining what is happening
 */
 
-#include<iostream>
-
-
-int main() {
-    std::string hello = "Hello, World!"; //this assigns hello world to hello
-    std::cout << hello; // this prints hello to console
-    return 0;
-}
