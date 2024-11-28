@@ -2,6 +2,8 @@
 Instructions
 - Create a programs that prints 
 "Hello, world" to the console.
+- Create another program to print variable to console
+_ Create another program to call function that prints hello world to console
 - Include single line comment 
 explaining what is happening
 */
