@@ -6,3 +6,9 @@ Instructions
 explaining what is happening
 */
 
+#include<iostream>
+
+
+int main() {
+    return 0
+}
