@@ -10,7 +10,7 @@ explaining what is happening
 
 
 int main() {
-    std::string hello = "Hello, World!";
-    std::cout << hello;
+    std::string hello = "Hello, World!"; //this assigns hello world to hello
+    std::cout << hello; // this prints hello to console
     return 0;
 }
