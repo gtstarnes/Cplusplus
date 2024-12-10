@@ -12,6 +12,6 @@ int linear(std::string t, std::string arr[]) {
 int main() {
     std::string strings[5] = {
         "a","b","c","d","e",
-    };
-    linear("f", strings);
+    }; 
+    std::cout << linear("a", strings);
 }
